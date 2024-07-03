@@ -1,4 +1,4 @@
-![Preview](assest/img/main.jpg)
+![Preview](assets/img/main.jpg)
 > A snapshot of my portfolio website.
 
 ## Talib Mir
