@@ -1,4 +1,4 @@
-![Preview](https://drive.google.com/file/d/16oPWaJq2ePeLS54m3P8VRPqYrQcJ9U_U/view?usp=drivesdk)
+![Preview](assest/img/main.jpg)
 > A snapshot of my portfolio website.
 
 ## Talib Mir
