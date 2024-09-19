@@ -40,4 +40,4 @@ This portfolio website is a representation of my journey, skills, and accomplish
 1. Clone the repository: `git clone https://github.com/tmeerr/talibmir_portfolio.git`
 2. Navigate to the project directory: `cd portfolio`
 3. Open the `index.html` file in your browser using liveserver
-4. Some things are
+4. Some things
